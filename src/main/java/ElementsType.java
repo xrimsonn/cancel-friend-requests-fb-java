@@ -1,0 +1,7 @@
+public enum ElementsType {
+    USERNAME_INPUT,
+    PASSWORD_INPUT,
+    LOGIN_FORM,
+    ALWAYS_TRUST,
+    OUTGOING_REQUESTS
+}
